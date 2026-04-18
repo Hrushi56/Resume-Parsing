@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+python-docx
+sentence-transformers
+chromadb
+aiosqlite
+pydantic
+python-dotenv
+groq
+requests
+pyjwt
+passlib
+bcrypt
+pydantic[email]

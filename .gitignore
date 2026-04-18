@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+resumes/
+scratch/
+taxonomy/__pycache__/
+data/__pycache__/
+output/

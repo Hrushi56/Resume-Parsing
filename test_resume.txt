@@ -1,0 +1,33 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-234-567-8900
+Location: New York, NY
+
+Summary:
+Experience Software Engineer with 5 years of experience in Python and Machine Learning.
+
+Skills:
+Python, JavaScript, React, TensorFlow, Docker, Kubernetes, SQL, AWS
+
+Experience:
+Tech Corp | Senior Developer | 2020 - Present
+- Led a team of 5 to build a scalable microservices architecture.
+- Optimized database queries, reducing latency by 40%.
+- Implemented CI/CD pipelines using GitHub Actions and Docker.
+
+StartUp Inc | Software Engineer | 2018 - 2020
+- Developed frontend components using React and Redux.
+- Built RESTful APIs using Node.js and Express.
+
+Education:
+University of Technology | B.S. in Computer Science | 2014 - 2018
+- Graduated with Honors.
+- Specialized in Artificial Intelligence.
+
+Certifications:
+- AWS Certified Solutions Architect
+- Deep Learning Specialization (Coursera)
+
+Projects:
+- Personal Portfolio: Built with Next.js and Tailwind CSS.
+- Open Source Contributor: Active contributor to several Python libraries.
